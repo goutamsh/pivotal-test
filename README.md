@@ -1,4 +1,4 @@
-# Learning how to use Pivotal Cloud Foundary 
+# Learning how to use Pivotal Cloud Foundry
 
 Services exposed:
 
@@ -10,7 +10,7 @@ GET /users/{name}: return the user with name
 
 POST /users/load : load the user into the in-memory DB
 
-# Cloud Foundary commands used:
+# Cloud Foundry commands used:
 
 cf login -a api.run.pivotal.io
 
