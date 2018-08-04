@@ -1,5 +1,9 @@
+# Learning how to use Pivotal Cloud Foundary 
 
-Cloud Foundary commands used:
+Services exposed:
+GET /hello/morning : outputs "Good Morning" string
+
+# Cloud Foundary commands used:
 
 cf login -a api.run.pivotal.io
 
