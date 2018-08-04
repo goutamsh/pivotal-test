@@ -1,0 +1,5 @@
+applications:
+- name: pivotal-test-spring-boot
+  path: target/pivital-test-0.0.1-SNAPSHOT.jar
+  domain: cfapps.io
+  instances: 1
